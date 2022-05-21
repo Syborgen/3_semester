@@ -1,0 +1,18 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=CMV_lab_6.chm
+Contents file=G:\ДонНТУ\ЧМВ(пт)\CMV_lab_6\Contents.hhc
+Default topic=G:\ДонНТУ\ЧМВ(пт)\CMV_lab_6\Пример.html
+Display compile progress=No
+Index file=G:\ДонНТУ\ЧМВ(пт)\CMV_lab_6\Index.hhk
+Language=0x419 Русский (Россия)
+
+
+[FILES]
+G:\ДонНТУ\ЧМВ(пт)\CMV_lab_6\Изменение НДС.html
+G:\ДонНТУ\ЧМВ(пт)\CMV_lab_6\Описание работы программы.html
+G:\ДонНТУ\ЧМВ(пт)\CMV_lab_6\Поиск(добавление) товаров.html
+G:\ДонНТУ\ЧМВ(пт)\CMV_lab_6\Редактирование настроек чека.html
+
+[INFOTYPES]
+

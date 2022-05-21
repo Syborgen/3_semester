@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KDM_individual_task:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KDM_individual_task_jar</output-path>
+    <root id="archive" name="KDM_individual_task.jar">
+      <element id="module-output" name="KDM_individual_task" />
+    </root>
+  </artifact>
+</component>

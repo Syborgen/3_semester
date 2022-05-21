@@ -1,0 +1,11 @@
+Y0abbccccYY0Y
+Ya0bbccccYYa0Y
+Ya1bbccccYY1aY
+Yab2bccccYY2aY
+Yabb1ccccY1YaY
+Yabb4ccccYY4aY
+Yabbc5cccYY5aY
+Yabbcc6ccYY6aY
+Yabbccc7cYY7aY
+Yabbcccc4YYa4Y
+[Y, a, Y]
